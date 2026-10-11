@@ -13,7 +13,6 @@ and the project uses [semantic versioning](https://semver.org/).
 
 * `--json --best DURATION` now includes the requested best window without changing saved jobs.
 
-
 ## [0.4.0] - 2026-10-06
 
 ### Added
